@@ -1,5 +1,10 @@
 package calculadora05;
 
+/**
+	@author
+	Esta clase es utilizada como calculadora, incluyendo opciones para:
+	sumar, restar, multiplicar, dividir, potencias y módulo.
+*/
 public class Calculadora05 {
 	public int sumar(int a, int b) { 
 		return a + b; 
