@@ -5,6 +5,13 @@ package calculadora05;
 	Esta clase es utilizada como calculadora, incluyendo opciones para:
 	sumar, restar, multiplicar, dividir, potencias y módulo.
 */
+/**
+ * Suma dos números enteros.
+ *
+ * @param a el primer número
+ * @param b el segundo número
+ * @return la suma de a y b
+ */
 public class Calculadora05 {
 	/**
 	Esta clase suma dos enteros.
